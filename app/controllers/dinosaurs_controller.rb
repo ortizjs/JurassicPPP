@@ -1,0 +1,3 @@
+class DinosaursController < ApplicationController
+    
+end
